@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20pt;
+    font-weight: normal;
+    background: rgb(70, 70, 70);
+    align-items: center;
+    justify-content: center;
+}
+.main {
+    margin: 100px auto;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+  }
+  button {
+    padding: 20px;
+    background: transparent;
+    text-shadow: 1px 1px 1px #ffffff;
+    font-family: "Lato", sans-serif;
+    font-size: 18pt;
+    border: 3px solid rgb(4, 4, 4);
+    color: rgb(255, 255, 255);
+    justify-content: baseline;
+  }
